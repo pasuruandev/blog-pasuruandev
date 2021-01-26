@@ -2,10 +2,10 @@
   "meta": {
     "title": "PasuruanDev",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Blog coding. Made with ❤ by PasuruanDev",
     "siteUrl": "https://pasuruandev.github.io/blog/",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/pasuruandevlogo.png",
+    "iconimage": "/assets/pasuruandevicon.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
