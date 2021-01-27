@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "PasuruanDev",
+    "title": "Blog | PasuruanDev",
     "titleTemplate": "%s",
     "description": "Blog coding. Made with ❤ by PasuruanDev",
     "siteUrl": "https://pasuruandev.github.io/blog/",
     "image": "/assets/pasuruandevlogo.png",
-    "iconimage": "/assets/pasuruandevicon.png",
+    "iconimage": "/assets/pasuruandevlogo.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"

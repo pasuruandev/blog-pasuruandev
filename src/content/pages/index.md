@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Pasuruan Dev
 tagline: Developer Community
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/46735304_2044425718976192_3169266913045269866_n.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
