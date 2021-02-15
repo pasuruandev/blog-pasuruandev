@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Pengenalan Go
-slug: /pengenalan-go
+title: Pengenalan PHP
+slug: /pengenalan-php
 date: 2020-05-09T05:53:16.102Z
-description: Pengenalan bahasa pemorgraman Golang
+description: Pengenalan bahasa pemorgraman PHP
 featuredImage: /assets/php.png
 ---
 
