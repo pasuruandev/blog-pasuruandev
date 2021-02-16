@@ -7,16 +7,13 @@ Repo ini dibuat untuk blog milik <i>Pasdev</i> yang berisi tutorial sederhana te
 <img src="https://img.shields.io/github/contributors/pasuruandev/blog-pasuruandev">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/pasuruandev/blog-pasuruandev">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pasuruandev/blog-pasuruandev">
-<img alt="GitHub" src="https://img.shields.io/github/
-license/pasuruandev/blog-pasuruandev">
-
+<img alt="GitHub" src="https://img.shields.io/github/license/pasuruandev/blog-pasuruandev">
 <img alt="GitHub labels" src="https://img.shields.io/github/labels/pasuruandev/blog-pasuruandev/help%20wanted">
-
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/pasuruandev?style=social">
 </div>
 
 <div align="center">
-<img src="/static/assets">
+<img src="https://raw.githubusercontent.com/pasuruandev/blog-pasuruandev/main/static/assets/feature-image.png">
 </div>
 
 ## ☝️ Introduction
